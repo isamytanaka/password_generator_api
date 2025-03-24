@@ -1,5 +1,5 @@
 ## Password Generator API
-
+![](https://raw.githubusercontent.com/isamytanaka/password_generator_api/31d6611f2a3d246ee6982f0f3bc7e7baf8576c6f/password-svgrepo-com%20(1).svg)
 > This **API** generates random passwords with customizable options. Users can specify the length of the password and whether to include numbers and special characters.
 
 **Base URL:**
